@@ -222,10 +222,6 @@ bool Application::Init(int w, int h)
 	KdAudioManager::Instance().Init();
 
 	return true;
-
-	// すぐにけせ  すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ
-	yeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah = 4649;
-	// すぐにけせ  すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ すぐにけせ
 }
 
 // ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// /////
